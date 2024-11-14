@@ -5,8 +5,7 @@ import 'package:flutter_application_1/Funding_Pages/application_form.dart';
 import 'package:flutter_application_1/Funding_Pages/grant_requirements.dart';
 import 'package:flutter_application_1/Funding_Pages/grant_application.dart';
 import 'package:flutter_application_1/Funding_Pages/grant_outcome.dart';
-//import 'package:flutter_application_1/views/home_screen.dart';
-//import 'package:provider/provider.dart';
+
 
 class fundingScreen extends StatelessWidget{
   const fundingScreen({super.key});
