@@ -14,6 +14,8 @@ class Grants extends StatelessWidget{
 
 
 class GrantOutcome extends StatelessWidget{
+  const GrantOutcome({super.key});
+
 
 @override
   Widget build(BuildContext context) {

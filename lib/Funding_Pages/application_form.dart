@@ -15,6 +15,8 @@ class Application extends StatelessWidget{
 
 
 class ApplicationForm extends StatelessWidget{
+  const ApplicationForm({super.key});
+
 
 @override
   Widget build(BuildContext context) {

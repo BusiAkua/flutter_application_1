@@ -14,6 +14,8 @@ class Application extends StatelessWidget{
 
 
 class ApplicationStatus extends StatelessWidget{
+  const ApplicationStatus({super.key});
+
 
 @override
   Widget build(BuildContext context) {
